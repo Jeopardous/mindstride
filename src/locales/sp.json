@@ -1,0 +1,14 @@
+{
+    "signin": "Iniciar sesión",
+    "signup": "Registrarse",
+    "signin-account": "Inicia sesión en tu cuenta.",
+    "forgot-password": "¿Olvidaste tu contraseña?",
+    "email-phone": "Correo electrónico/Número de teléfono",
+    "password": "Contraseña",
+    "create-new": "Crear una nueva cuenta",
+    "name": "Nombre",
+    "phone": "Número de teléfono",
+    "email": "Correo electrónico",
+    "confirm-password": "Confirmar contraseña",
+    "age-checkbox": "Tengo 16 años o más"
+}

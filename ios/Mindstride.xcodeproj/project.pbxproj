@@ -12,8 +12,17 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1D75352244514B0786D2DE16 /* THICCCBOI-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6BA0CF3D3A2849DDB965DC6D /* THICCCBOI-Black.ttf */; };
+		29C32B5876C34D8297879F35 /* THICCCBOI-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE0F657262E04D82A7F3DF7D /* THICCCBOI-SemiBold.ttf */; };
+		3925AB13F8764CC9BA6363C2 /* THICCCBOI-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3A39B6838A2E4B44B95C2D26 /* THICCCBOI-ExtraBold.ttf */; };
+		43F0B3AE5CD74BBA85E92D42 /* THICCCBOI-ThicccAF.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 22DA38F9E2A442918F2911C8 /* THICCCBOI-ThicccAF.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-Mindstride-MindstrideTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Mindstride-MindstrideTests.a */; };
+		7B0957DABFB84170959C887E /* THICCCBOI-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EFF08C54CCDB478DB7E797FE /* THICCCBOI-Thin.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		BF3FD95B3A2044A4B9E71823 /* THICCCBOI-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 08CB5196C5F4472F93F915D3 /* THICCCBOI-Medium.ttf */; };
+		C8D46055F8234B10B14B3A5C /* THICCCBOI-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5AB56354DC19474FA425BC96 /* THICCCBOI-Light.ttf */; };
+		EEB06E33C1FD4AA29A4C6D6B /* THICCCBOI-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BA28C2EB1FE64E429AA36852 /* THICCCBOI-Bold.ttf */; };
+		F8DA9CD48BEF47BA8DDB2DE1 /* THICCCBOI-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C60D493DEC6840EE89687F5B /* THICCCBOI-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,6 +39,7 @@
 		00E356EE1AD99517003FC87E /* MindstrideTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MindstrideTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* MindstrideTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MindstrideTests.m; sourceTree = "<group>"; };
+		08CB5196C5F4472F93F915D3 /* THICCCBOI-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "THICCCBOI-Medium.ttf"; path = "../src/assets/fonts/THICCCBOI-Medium.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* Mindstride.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mindstride.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Mindstride/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = Mindstride/AppDelegate.mm; sourceTree = "<group>"; };
@@ -37,13 +47,21 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Mindstride/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Mindstride/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-Mindstride-MindstrideTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Mindstride-MindstrideTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		22DA38F9E2A442918F2911C8 /* THICCCBOI-ThicccAF.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "THICCCBOI-ThicccAF.ttf"; path = "../src/assets/fonts/THICCCBOI-ThicccAF.ttf"; sourceTree = "<group>"; };
+		3A39B6838A2E4B44B95C2D26 /* THICCCBOI-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "THICCCBOI-ExtraBold.ttf"; path = "../src/assets/fonts/THICCCBOI-ExtraBold.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-Mindstride.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mindstride.debug.xcconfig"; path = "Target Support Files/Pods-Mindstride/Pods-Mindstride.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-Mindstride.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mindstride.release.xcconfig"; path = "Target Support Files/Pods-Mindstride/Pods-Mindstride.release.xcconfig"; sourceTree = "<group>"; };
+		5AB56354DC19474FA425BC96 /* THICCCBOI-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "THICCCBOI-Light.ttf"; path = "../src/assets/fonts/THICCCBOI-Light.ttf"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-Mindstride-MindstrideTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mindstride-MindstrideTests.debug.xcconfig"; path = "Target Support Files/Pods-Mindstride-MindstrideTests/Pods-Mindstride-MindstrideTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-Mindstride.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Mindstride.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BA0CF3D3A2849DDB965DC6D /* THICCCBOI-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "THICCCBOI-Black.ttf"; path = "../src/assets/fonts/THICCCBOI-Black.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Mindstride/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Mindstride-MindstrideTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mindstride-MindstrideTests.release.xcconfig"; path = "Target Support Files/Pods-Mindstride-MindstrideTests/Pods-Mindstride-MindstrideTests.release.xcconfig"; sourceTree = "<group>"; };
+		BA28C2EB1FE64E429AA36852 /* THICCCBOI-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "THICCCBOI-Bold.ttf"; path = "../src/assets/fonts/THICCCBOI-Bold.ttf"; sourceTree = "<group>"; };
+		BE0F657262E04D82A7F3DF7D /* THICCCBOI-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "THICCCBOI-SemiBold.ttf"; path = "../src/assets/fonts/THICCCBOI-SemiBold.ttf"; sourceTree = "<group>"; };
+		C60D493DEC6840EE89687F5B /* THICCCBOI-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "THICCCBOI-Regular.ttf"; path = "../src/assets/fonts/THICCCBOI-Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		EFF08C54CCDB478DB7E797FE /* THICCCBOI-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "THICCCBOI-Thin.ttf"; path = "../src/assets/fonts/THICCCBOI-Thin.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +124,23 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		5DEA757B58534876ACEC966D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6BA0CF3D3A2849DDB965DC6D /* THICCCBOI-Black.ttf */,
+				BA28C2EB1FE64E429AA36852 /* THICCCBOI-Bold.ttf */,
+				3A39B6838A2E4B44B95C2D26 /* THICCCBOI-ExtraBold.ttf */,
+				5AB56354DC19474FA425BC96 /* THICCCBOI-Light.ttf */,
+				08CB5196C5F4472F93F915D3 /* THICCCBOI-Medium.ttf */,
+				C60D493DEC6840EE89687F5B /* THICCCBOI-Regular.ttf */,
+				BE0F657262E04D82A7F3DF7D /* THICCCBOI-SemiBold.ttf */,
+				22DA38F9E2A442918F2911C8 /* THICCCBOI-ThicccAF.ttf */,
+				EFF08C54CCDB478DB7E797FE /* THICCCBOI-Thin.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,6 +157,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				5DEA757B58534876ACEC966D /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -243,6 +279,15 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				1D75352244514B0786D2DE16 /* THICCCBOI-Black.ttf in Resources */,
+				EEB06E33C1FD4AA29A4C6D6B /* THICCCBOI-Bold.ttf in Resources */,
+				3925AB13F8764CC9BA6363C2 /* THICCCBOI-ExtraBold.ttf in Resources */,
+				C8D46055F8234B10B14B3A5C /* THICCCBOI-Light.ttf in Resources */,
+				BF3FD95B3A2044A4B9E71823 /* THICCCBOI-Medium.ttf in Resources */,
+				F8DA9CD48BEF47BA8DDB2DE1 /* THICCCBOI-Regular.ttf in Resources */,
+				29C32B5876C34D8297879F35 /* THICCCBOI-SemiBold.ttf in Resources */,
+				43F0B3AE5CD74BBA85E92D42 /* THICCCBOI-ThicccAF.ttf in Resources */,
+				7B0957DABFB84170959C887E /* THICCCBOI-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
